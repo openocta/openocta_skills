@@ -1,0 +1,9 @@
+{
+  "name": "your-skill-name",
+  "version": "1.0.0",
+  "description": "简短描述该技能的用途与适用场景。",
+  "author": "",
+  "email": "openocta@databuff.com",
+  "license": "MIT",
+  "keywords": ["openocta", "skill"]
+}
