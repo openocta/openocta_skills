@@ -1,0 +1,10 @@
+{
+  "name": "prometheus_skill",
+  "version": "0.1.0-draft",
+  "description": "第一期征集：Prometheus / 指标与告警体系的真实运维经验（占位，复制到仓库根目录后补全）。",
+  "author": "",
+  "affiliation": "",
+  "email": "",
+  "license": "MIT",
+  "keywords": ["openocta", "skill", "prometheus", "metrics", "alerting"]
+}

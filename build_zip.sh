@@ -17,6 +17,7 @@ _bundle_cleanup() {
 # 不参与「技能目录」识别的名称（小写比较）
 SKIP_NAMES=(
   "template"
+  "wanted-phase1"
   "dist"
 )
 
@@ -34,7 +35,7 @@ usage() {
   -h, --help  显示本帮助并退出
 
 注意:
-  - 「all」会跳过模版目录 template、输出目录 dist，以及以 '.' 开头的隐藏目录。
+  - 「all」会跳过模版目录 template、第一期占位目录 wanted-phase1、输出目录 dist，以及以 '.' 开头的隐藏目录。
   - 需要系统可用命令: zip, tar
 
 示例:

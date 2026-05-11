@@ -1,0 +1,10 @@
+{
+  "name": "k8s_skill",
+  "version": "0.1.0-draft",
+  "description": "第一期征集：Kubernetes 真实工作场景下的运维与排障知识（占位，复制到仓库根目录后补全）。",
+  "author": "",
+  "affiliation": "",
+  "email": "",
+  "license": "MIT",
+  "keywords": ["openocta", "skill", "kubernetes", "k8s"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zabbix_skill",
+  "version": "0.1.0-draft",
+  "description": "第一期征集：Zabbix 监控模板、触发器与运维排障经验（占位，复制到仓库根目录后补全）。",
+  "author": "",
+  "affiliation": "",
+  "email": "",
+  "license": "MIT",
+  "keywords": ["openocta", "skill", "zabbix", "monitoring"]
+}
