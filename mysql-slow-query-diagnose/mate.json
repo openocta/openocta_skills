@@ -1,0 +1,10 @@
+{
+  "name": "mysql-slow-query-diagnose",
+  "version": "1.0.0",
+  "description": "MySQL 慢查询诊断：索引命中率 + EXPLAIN + 覆盖索引推荐 + 预估提速倍数。",
+  "author": "vicleung",
+  "affiliation": "Individual",
+  "email": "vicleung01@users.noreply.github.com",
+  "license": "Apache-2.0",
+  "keywords": ["openocta", "skill", "mysql", "mariadb", "slow-query", "index", "dba"]
+}
