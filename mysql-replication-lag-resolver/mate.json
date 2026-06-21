@@ -1,0 +1,10 @@
+{
+  "name": "mysql-replication-lag-resolver",
+  "version": "1.0.0",
+  "description": "MySQL 从库延迟根因定位 + 5 阶段双重复核安全 KILL 慢 SQL。",
+  "author": "vicleung",
+  "affiliation": "Individual",
+  "email": "vicleung01@users.noreply.github.com",
+  "license": "Apache-2.0",
+  "keywords": ["openocta", "skill", "mysql", "mariadb", "replication", "lag", "kill", "dba"]
+}
