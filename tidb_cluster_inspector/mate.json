@@ -1,0 +1,10 @@
+{
+  "name": "tidb_cluster_inspector",
+  "version": "1.1.0",
+  "description": "TiDB 集群系统性巡检与深度诊断（拓扑/节点健康/慢查询/热点 Region/Leader 倾斜/TopSQL 归因/TiKV 存储/PD 调度），纯只读 SQL 实现，兼容 TiDB v4.0+。",
+  "author": "vicleung",
+  "affiliation": "Individual",
+  "email": "vicleung01@users.noreply.github.com",
+  "license": "Apache-2.0",
+  "keywords": ["openocta", "skill", "tidb", "database", "dba", "inspection", "topsql", "hot-region", "leader-skew"]
+}
