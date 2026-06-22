@@ -1,0 +1,10 @@
+{
+  "name": "mysql-deadlock-analyzer",
+  "version": "1.0.0",
+  "description": "MySQL 死锁全链路分析：InnoDB status → 锁链 → 模式分类（AB-BA/Gap Lock/FK）→ 修复建议。",
+  "author": "vicleung",
+  "affiliation": "Individual",
+  "email": "vicleung01@users.noreply.github.com",
+  "license": "Apache-2.0",
+  "keywords": ["openocta", "skill", "mysql", "mariadb", "deadlock", "innodb", "dba"]
+}
